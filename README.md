@@ -1,11 +1,13 @@
 <h1>Wallet App</h1>
 
+![Wallet gif](./wallet.gif)
+
 [👉 click here to login Wallet-App](https://ilkerkr.github.io/Wallet-App/)
 
 <h2>Project Skeleton</h2>
 
 ```
-Todo-App (folder)
+Wallet-App (folder)
 |
 |----readme.md                  
 |----app.js            
